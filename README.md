@@ -13,5 +13,5 @@ Open Bot Blum and run the game </br>
 </br>
 # blum auto
 F12 > Application > Session storage > telegram.blum.codes > __telegram_initParams_ > Copy your query ID </br>
-Then place it to query.txt
+Then place it to query.txt</br>
 Run blum.py
