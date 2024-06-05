@@ -6,6 +6,8 @@ Open https://app.requestly.io/rules#sharedList/1717097838475-Blum-web </br>
 Click _Import to my rules_ on the top right. </br>
 ![image](https://github.com/IEBChanel/blum/assets/158603538/e8bf6837-e630-4ce1-8c23-c059a38d94c2) </br>
 Tick to turn on Blum-web </br>
+![image](https://github.com/IEBChanel/blum/assets/158603538/bf4596ed-4063-4a3c-b4ae-984423fee883) </br>
+</br>
 ![image](https://github.com/IEBChanel/blum/assets/158603538/acef7786-a35a-4508-b15e-ec9ba10ff167) </br>
 Open Bot Blum and run the game </br>
 </br>
